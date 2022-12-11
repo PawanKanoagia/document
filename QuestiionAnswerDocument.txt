@@ -1,0 +1,39 @@
+
+WAP to check if the given contact number is valid or invalid using regular
+expressions-
+
+
+import re;
+x = re.match("^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$", "212 456 7890")
+if x:
+    print('Valid Contact Number')
+else:
+        print('Invalid Contact Number')
+
+
+
+
+
+WAP to get the Social Links, Email & Contacts details of a website on user input.
+
+I don't get the query.
+
+
+
+
+
+One-Line Answers (Answers to be written on .txt file)-
+
+A.    What is reverse-i-search in a Linux terminal?
+Ans = Use reverse-i-search to find past commands   -> cntr + r
+
+B.  How do you list out the hidden directories using Linux command line tool?
+Ans=To show hidden files you must use the -a option, which commands ls to list "all" files and folders (including hidden ones).  ->  ls -a
+
+C.  How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans = Professional , it gives you a server based experience. 
+
+D.    Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans = I developed a free website using Heroku and the technologies Node JS, Express, MongoDB (for the database), and React JS (for frontend)
+
